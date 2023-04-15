@@ -1,0 +1,4 @@
+* to run scripts i used live server
+* Using Font Awesome
+1. create a kit in fontawsome
+2. include it in your script tag
